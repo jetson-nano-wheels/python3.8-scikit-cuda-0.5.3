@@ -8,7 +8,7 @@
 If you have `pip` (which should be run in a suitable virtual environment) the following should work.
 
 ```sh
-pip install 'https://github.com/jetson-nano-wheels/python3.8-scikit-cuda-0.5.3/releases/download/v0.0.1/scikit-cuda-0.5.3-cp38-cp38m-linux_aarch64.whl'
+pip install 'https://github.com/jetson-nano-wheels/python3.8-scikit-cuda-0.5.3/releases/download/v0.0.1/scikit_cuda-0.5.3-py2.py3-none-any.whl'
 ```
 
 
